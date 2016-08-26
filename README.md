@@ -38,6 +38,8 @@ Add this to your [controller-name].coffe
 ```
 See [configuration options](https://github.com/NextStepWebs/simplemde-markdown-editor#configuration)
 
+After that each first textarea on each page of this controller will be transformed to SimpleMDE markdown editor
+
 ## Contributing
 
 Bug reports and pull requests are welcome on GitHub at https://github.com/arsique/simplemde.
