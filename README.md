@@ -36,6 +36,7 @@ Add this to your [controller-name].coffe
     $(document).on 'turbolinks:load', ->
     simplemde = new SimpleMDE()
 ```
+See [configuration options](https://github.com/NextStepWebs/simplemde-markdown-editor#configuration)
 
 ## Contributing
 
