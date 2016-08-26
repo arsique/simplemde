@@ -9,9 +9,9 @@ Gem::Specification.new do |spec|
   spec.authors       = ["arsique"]
   spec.email         = ["sim.gishel.7@gmail.com"]
 
-  spec.summary       = %q{TODO: Write a short summary, because Rubygems requires one.}
-  spec.description   = %q{TODO: Write a longer description or delete this line.}
-  spec.homepage      = "TODO: Put your gem's website or public repo URL here."
+  spec.summary       = "SimpleMDE markdown editor for Rails 5"
+  spec.description   = "This gem adds SimpleMDE markdown editor css and js files to you asset pipeline"
+  spec.homepage      = "http://github.com/arsique/simplemde"
   spec.license       = "MIT"
 
   # Prevent pushing this gem to RubyGems.org. To allow pushes either set the 'allowed_push_host'
