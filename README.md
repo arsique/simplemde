@@ -2,6 +2,8 @@
 
 Add [SimpleMDE](https://simplemde.com/) markdown editor to your Rails application.
 
+This gem is not maintained for a long time. Not sure if it still works.
+
 ## Installation
 
 Add this line to your application's Gemfile:
